@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUw2tm749ouG5dQjeITsgmgv+2jAYb/uiFZBT0KgOQkI7D166+yHJ78VEb78P+1aG/PtDP+xxRLQeQ/I5cjq3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\MidasoftTest\\MidasoftTest.Common\\MidasoftTest.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

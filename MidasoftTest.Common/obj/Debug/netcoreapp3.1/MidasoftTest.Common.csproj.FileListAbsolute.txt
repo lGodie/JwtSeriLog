@@ -1,0 +1,9 @@
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\bin\Debug\netcoreapp3.1\MidasoftTest.Common.deps.json
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\bin\Debug\netcoreapp3.1\MidasoftTest.Common.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\bin\Debug\netcoreapp3.1\MidasoftTest.Common.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\obj\Debug\netcoreapp3.1\MidasoftTest.Common.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\obj\Debug\netcoreapp3.1\MidasoftTest.Common.AssemblyInfo.cs
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\obj\Debug\netcoreapp3.1\MidasoftTest.Common.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\obj\Debug\netcoreapp3.1\MidasoftTest.Common.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\obj\Debug\netcoreapp3.1\MidasoftTest.Common.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Common\obj\Debug\netcoreapp3.1\MidasoftTest.Common.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\bin\Debug\netcoreapp3.1\MidasoftTest.Data.deps.json
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\bin\Debug\netcoreapp3.1\MidasoftTest.Data.runtimeconfig.json
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\bin\Debug\netcoreapp3.1\MidasoftTest.Data.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\bin\Debug\netcoreapp3.1\MidasoftTest.Data.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\bin\Debug\netcoreapp3.1\MidasoftTest.Data.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.AssemblyInfo.cs
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.Shared\obj\Debug\netcoreapp3.1\MidasoftTest.Data.genruntimeconfig.cache

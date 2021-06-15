@@ -1,0 +1,16 @@
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.IOC.deps.json
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.IOC.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.IOC.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.AssemblyInfo.cs
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.Common.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.Data.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.Domain.dll
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.Domain.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.Common.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\bin\Debug\netcoreapp3.1\MidasoftTest.Data.pdb
+C:\Users\Diego\source\repos\MidasoftTest\MidasoftTest.IOC\obj\Debug\netcoreapp3.1\MidasoftTest.IOC.csproj.CopyComplete
